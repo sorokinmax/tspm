@@ -1,0 +1,13 @@
+packtitle: "My stickers"
+packname: "coolstickers"
+
+thumbnail:
+  file: _thumbnail.png
+
+headsticker:
+  file: _headsticker.png
+  emojis: 👍
+
+stickers:
+  - {file: 1.png, emojis: 👍}
+  - {file: 2.png, emojis: 😁} 
